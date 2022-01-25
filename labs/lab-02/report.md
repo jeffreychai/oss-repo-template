@@ -6,7 +6,6 @@ Date: January 24, 2022
 Repository Link: https://github.com/jeffreychai/lab2part1
 
 Visualize Diagram
-
 gitk:
 ![gitk](images/part1-gitk.PNG)
 
@@ -22,7 +21,11 @@ Repository Link: https://github.com/jeffreychai/Spoon-Knife
 I completed the first four levels of Learn Git Branching.
 It was interesting to learn about rebase.
 
-Screenshot:
+Screenshots:
+![git_branching](images/part2-1.PNG)
+![git_branching](images/part2-2.PNG)
+![git_branching](images/part2-3.PNG)
+![git_branching](images/part2-4.PNG)
 ![git_branching](images/part2-git-branching.PNG)
 
 ## Part 3
@@ -32,7 +35,7 @@ Base Repo Pull Request: https://github.com/wdturner/PullReq/pull/127
 
 Note: During Friday, Professor Turner said that I could do HEAD~2 due to a misunderstanding about when to clone.
 git diff:
-![diff](images/part3-tag.PNG)
+![diff](images/part3-diff.PNG)
 
 git tag:
 ![tag](images/part3-tag.PNG)
