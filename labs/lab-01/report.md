@@ -2,7 +2,9 @@
 
 ## Part 1 - Discord Message
 
-![discord-message](images/message.png)
+My name on Discord is Jeffrey Chai.
+
+![discord-message](images/message.PNG)
 
 ## Part 2 - Reading assignments
 
@@ -35,31 +37,33 @@ My reaction to this section is that what happened to Jesse Jordan is very unfort
 
 ## Part 3 - Linux
 
-![linux-tree](images/man-tree.png)
+Manpage for tree.
+
+![linux-tree](images/man-tree.PNG)
 
 ## Part 4 - Regex
 
-![regex1](images/prob1.png)
+![regex1](images/prob1.PNG)
 
-![regex2](images/prob2.png)
+![regex2](images/prob2.PNG)
 
-![regex3](images/prob3.png)
+![regex3](images/prob3.PNG)
 
-![regex4](images/prob4.png)
+![regex4](images/prob4.PNG)
 
-![regex5](images/prob5.png)
+![regex5](images/prob5.PNG)
 
-![regex6](images/prob6.png)
+![regex6](images/prob6.PNG)
 
-![regex7](images/prob7.png)
+![regex7](images/prob7.PNG)
 
-![regex8](images/prob8.png)
+![regex8](images/prob8.PNG)
 
-![regex-ex](images/beginner-level.png)
+![regex-ex](images/beginner-level.PNG)
 
 ## Part 5 - Play with Blockly
 
-![blockly-solved](images/blockly.png)
+![blockly-solved](images/blockly.PNG)
 
 ## Part 6 - Reflection
 An open source project that I think is interesting and might be interesting to evaluate is detextify. The project is a LaTeX symbol classifier as a web service. I think the project is interesting because it is a helpful resource for people learning LaTeX for the first time. I knew about this project because I actually used it for a different course, but I learned today that it was open source when I started looking into it more. The project seems to only have 2 contributors at the moment, so there does not seem to be a large community of developers for it.
