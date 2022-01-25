@@ -4,7 +4,9 @@
 ## Bio
 
 Name: Jeffrey Chai
+
 Github: jeffreychai
+
 Discord: cocacola#3813
 
 I am a senior CSCI and MATH dual major graduating in May 2022.
@@ -16,3 +18,5 @@ Photo of myself: ![Picture](images/index_picture.png)
 
 ## Lab Reports
 [Lab 1](labs/lab-01/report.md)
+
+[Lab 2](labs/lab-02/report.md)
