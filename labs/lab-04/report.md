@@ -68,12 +68,12 @@ https://www.adminschoice.com/download-linux-top-10-free-linux-distributions-for-
 
 https://en.wikipedia.org/wiki/Linus_Torvalds
 
-## 7 - 
+## 7 - Business Idea
 
 Breakout Room 7 Link: https://github.com/schnur/RPIduino
 
 Our business idea is to create open source circuit designs for education.
-It would work as a business since we can profit by selling kits with all the parts.
+It would work as a business since we can profit by selling kits with all the parts if a group does not want to find all the parts independently.
 We decided to go with the GPL v3 license since the purpose is aimed toward education, so any future contributions should be made open source as well.
 
 ## 8 - Analyze 5 Projects
@@ -81,7 +81,7 @@ We decided to go with the GPL v3 license since the purpose is aimed toward educa
 Website | License Present | License
 ---------|:----------|:-------
 https://github.com/rcos/Observatory | Yes | Two Clause BSD License https://en.wikipedia.org/wiki/ISC_license
-https://github.com/Submitty/Submitty | Yes | BSD Three Clause License https://en.wikipedia.org/wiki/BSD_licenses
+https://github.com/Submitty/Submitty | Yes | Three Clause BSD License https://en.wikipedia.org/wiki/BSD_licenses
 https://github.com/copperwater/yacs | Yes | MIT License https://en.wikipedia.org/wiki/MIT_License
 https://github.com/quacs/quacs | Yes | MIT License https://en.wikipedia.org/wiki/MIT_License
 https://github.com/thepoly/pipeline | Yes | MIT License https://en.wikipedia.org/wiki/MIT_License
