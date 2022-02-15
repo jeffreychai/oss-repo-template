@@ -44,7 +44,9 @@ Result from ctest:
 - [Created Makefile from C](example/Makefile2)
 
 Compare Sizes:
+
 ![sizes](example/sizes.PNG)
 
 Results (all were the same):
+
 ![sizes](example/results.PNG)
