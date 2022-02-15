@@ -2,27 +2,27 @@
 
 ## Step 1
 
-[CMakeLists.txt](step1/CMakeLists.txt)
+[CMakeLists.txt](Step1/CMakeLists.txt)
 
 ![tutorial_step1](Step1/tutorial_step1.PNG)
 
 ## Step 2
 
-[CMakeLists.txt](step2/CMakeLists.txt)
+[CMakeLists.txt](Step2/CMakeLists.txt)
 
 ![tutorial_step2](Step2/tutorial_step2.PNG)
 
 ## Step 3
 
-- [CMakeLists.txt](step3/CMakeLists.txt)
+- [CMakeLists.txt](Step3/CMakeLists.txt)
 - [MathFunctions/CMakeLists.txt](step3/MathCMakeLists.txt)
 
 ![tutorial_step3](Step3/tutorial_step3.PNG)
 
 ## Step 4
 
-- [CMakeLists.txt](step4/CMakeLists.txt)
-- [MathFunctions/CMakeLists.txt](step4/MathCMakeLists.txt)
+- [CMakeLists.txt](Step4/CMakeLists.txt)
+- [MathFunctions/CMakeLists.txt](Step4/MathCMakeLists.txt)
 
 ![tutorial_step4](Step4/tutorial_step4.PNG)
 
@@ -32,8 +32,8 @@ Result from ctest:
 
 ## Step 5
 
-- [CMakeLists.txt](step5/CMakeLists.txt)
-- [MathFunctions/CMakeLists.txt](step5/MathCMakeLists.txt)
+- [CMakeLists.txt](Step5/CMakeLists.txt)
+- [MathFunctions/CMakeLists.txt](Step5/MathCMakeLists.txt)
 
 ![tutorial_step5](Step5/tutorial_step5.PNG)
 
