@@ -15,7 +15,7 @@
 ## Step 3
 
 - [CMakeLists.txt](Step3/CMakeLists.txt)
-- [MathFunctions/CMakeLists.txt](step3/MathCMakeLists.txt)
+- [MathFunctions/CMakeLists.txt](Step3/MathCMakeLists.txt)
 
 ![tutorial_step3](Step3/tutorial_step3.PNG)
 
