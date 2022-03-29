@@ -44,7 +44,7 @@ Successful Connection:
 
 List Images:
 
-![step4](example04-images.PNG)
+![step4](example04-images.png)
 
 Docker Build and Up commands:
 
