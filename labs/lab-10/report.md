@@ -3,6 +3,7 @@
 ## Checkpoint 0
 
 I decided to analyze the incident with the Faker.js and Color.js libraries.
+
 Link to blog entry: https://github.com/jeffreychai/oss-repo-template/wiki/Open-Source-Attack-(Week-10)
 
 ## Checkpoint 1: Install CouchDB
