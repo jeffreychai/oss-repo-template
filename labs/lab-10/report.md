@@ -16,6 +16,7 @@ Now we know that the database is working properly on the local machine.
 ## Checkpoint 2: Quick Tour
 
 Need to login:
+
 ![image](fauxton-prelogin.PNG)
 
 ![image](fauxton-login.PNG)
@@ -69,6 +70,8 @@ Documents in Detail:
 Attachments:
 
 ![image](attachment.PNG)
+
+Visit URL on Browser:
 
 ![image](artwork-screenshot.PNG)
 
