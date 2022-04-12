@@ -22,11 +22,11 @@ Original Image #1:
 
 Transformed Image #1 (Grayscale):
 
-![transformed_clothes1](grey_clothes1.png)
+![transformed_clothes1](grey_clothes1.PNG)
 
 Transformed Image #1 (All):
 
-![transformed_clothes1](after_clothes1.png)
+![transformed_clothes1](after_clothes1.PNG)
 
 Original Image #2:
 
@@ -34,11 +34,11 @@ Original Image #2:
 
 Transformed Image #2 (Grayscale):
 
-![transformed_clothes2](grey_clothes2.png)
+![transformed_clothes2](grey_clothes2.PNG)
 
 Transformed Image #2 (All):
 
-![transformed_clothes2](after_clothes2.png)
+![transformed_clothes2](after_clothes2.PNG)
 
 Original Image #3:
 
@@ -46,11 +46,11 @@ Original Image #3:
 
 Transformed Image #3 (Grayscale):
 
-![transformed_clothes3](grey_clothes3.png)
+![transformed_clothes3](grey_clothes3.PNG)
 
 Transformed Image #3 (All):
 
-![transformed_clothes3](after_clothes3.png)
+![transformed_clothes3](after_clothes3.PNG)
 
 Test Prediction Accuracy (Grayscale):
 
